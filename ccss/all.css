@@ -742,7 +742,7 @@ template {
 }
 
 .global-nav_item__pc {
-    display: none;
+    display: block;
 }
 
 @media all and (min-device-width: 650px) and (min-device-height: 650px) and (min-width: 650px) {
@@ -2313,7 +2313,7 @@ template {
     color: transparent;
     display: none;
     position: absolute;
-    left: 1320px;
+    left: 920px;
     top: -8px;
     width: 32px;
     height: 39px;
